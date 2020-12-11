@@ -1,0 +1,6 @@
+# data
+*.arff
+data.zip
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints
